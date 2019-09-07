@@ -1,0 +1,13 @@
+/* Estilo ATO */
+#logoPrincipal {
+  width: 250px !important;
+}
+
+.section-scroll .btn .btn-round {
+	background-color: transparent;
+}
+
+.section-scroll .btn .btn-round:hover {
+
+}
+
